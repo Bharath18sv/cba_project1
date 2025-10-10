@@ -207,7 +207,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Bharath S V - Initial work
 
 ## 🙏 Acknowledgments
 
