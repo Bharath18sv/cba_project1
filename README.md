@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # E-Commerce Platform
 =======
 # SnapCart
->>>>>>> caa558ea56b38af0caa1e94314f570bd0a2c8b38
 
 A full-stack e-commerce application built with React.js frontend and Node.js/Express backend, featuring user authentication, product management, order processing, and admin dashboard.
 
@@ -79,13 +77,10 @@ A full-stack e-commerce application built with React.js frontend and Node.js/Exp
 
 1. **Clone the repository**
    ```bash
-<<<<<<< HEAD
-   git clone <repository-url>
-   cd e-commerce-platform
-=======
-   git clone https://github.com/Rahulhanje/SnapCart.git
+
+   git clone https://github.com/Bharath18sv/SnapCart.git
    cd snapcart
->>>>>>> caa558ea56b38af0caa1e94314f570bd0a2c8b38
+
    ```
 
 2. **Install Frontend Dependencies**
@@ -215,7 +210,4 @@ This project is licensed under the ISC License.
 - Tailwind CSS for the beautiful UI framework
 - MongoDB for the database solution
 - Cloudinary for image storage services
-<<<<<<< HEAD
 
-=======
->>>>>>> caa558ea56b38af0caa1e94314f570bd0a2c8b38
